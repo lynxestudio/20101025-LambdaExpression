@@ -15,7 +15,7 @@ Aunque C# no utiliza los símbolos de la notación matemática lambda, el operad
 <p>
 Veamos algunos ejemplos:
 </p>
-<img scr="classLambda.png">
+<img src="classLambda.png"/>
 <p>
 La salida del programa es la siguiente imagen
 </p>
