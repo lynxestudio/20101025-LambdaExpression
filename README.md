@@ -15,19 +15,19 @@ Aunque C# no utiliza los símbolos de la notación matemática lambda, el operad
 <p>
 Veamos algunos ejemplos:
 </p>
-<img src="classLambda.png"/>
+<img src="images/classLambda.png"/>
 <p>
 La salida del programa es la siguiente imagen
 </p>
-<img src="lambda1.png">
+<img src="images/lambda1.png">
 <p>
 Ahora un ejemplo con funciones estadísticas:
 </p>
-<img src="MainLambda.png">
+<img src="images/MainLambda.png">
 <p>
 la salida de este ejemplo es la siguiente imagen
 </p>
-<img src="lambda2.png">
+<img src="images/lambda2.png">
 <p>
 Es importante saber que es el tipo delegate que dicta el tipo de los parámetros de entrada y de salida.
 </p>
