@@ -14,8 +14,11 @@ Aunque C# no utiliza los símbolos de la notación matemática lambda, el operad
 </pre>
 <p>
 Veamos algunos ejemplos:
+<ol>
+<li>Primer ejemplo usando expresiones lambda</li>
+<li>Segundo ejemplo usando funciones estaticas</li>
+</ol>
 </p>
-<img src="images/classLambda.png"/>
 <p>
 La salida del programa es la siguiente imagen
 </p>
@@ -23,7 +26,6 @@ La salida del programa es la siguiente imagen
 <p>
 Ahora un ejemplo con funciones estadísticas:
 </p>
-<img src="images/MainLambda.png">
 <p>
 la salida de este ejemplo es la siguiente imagen
 </p>
